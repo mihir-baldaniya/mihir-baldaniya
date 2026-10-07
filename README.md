@@ -27,7 +27,7 @@ MongoDB
 Git | GitHub | VS Code | Postman | REST APIs
 
 ### AI & Development
-Generative AI | AI-Assisted Development | ChatGPT | Gemini | Claude
+Generative AI | AI-Assisted Development | Claude | Gemini | ChatGPT
 
 ---
 
