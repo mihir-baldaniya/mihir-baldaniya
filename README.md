@@ -67,7 +67,8 @@ A modern real estate web application focused on presenting property information 
 🧠 Solving development problems  
 🤖 Exploring AI & Generative AI  
 📚 Learning new technologies  
-📸 Photography & creative work  
+📸 Photography & creative work 
+🎥 content creation
 🚀 Turning ideas into real-world products
 
 ---
