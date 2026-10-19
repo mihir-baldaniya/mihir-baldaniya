@@ -27,8 +27,7 @@ MongoDB
 Git | GitHub | VS Code | Postman | REST APIs
 
 ### AI & Development
-Generative AI | AI-Assisted Development | Claude | Gemini | ChatGPT
-
+Generative AI | AI-Assisted Development | ChatGPT | Claude | Google Gemini | Cursor AI | GitHub Copilot | Claude Code | OpenAI Codex | Prompt Engineering | OpenAI API
 ---
 
 ## 🔹 Featured Projects
@@ -50,14 +49,18 @@ A modern real estate web application focused on presenting property information 
 
 ## 🎯 Currently Learning
 
-- Advanced React.js
-- MERN Stack Development
-- REST API Development
-- MongoDB & Database Design
-- Authentication & Authorization
-- Full Stack Application Architecture
-- AI & Generative AI
-- Better problem-solving and development practices
+- Three.js & 3D Web Development
+- React Three Fiber & Drei — Interactive 3D experiences
+- WebGL & Real-Time 3D Rendering
+- GSAP & Advanced Web Animations
+- Framer Motion & Micro-Interactions
+- AI Integration & Generative AI Applications
+- AI Agents & LLM Integration
+- Next.js & Server-Side Rendering
+- TypeScript & Type-Safe Development
+- Advanced UI/UX & Immersive Web Experiences
+- Web Performance Optimization
+- Modern Web Design & Creative Development
 
 ---
 
